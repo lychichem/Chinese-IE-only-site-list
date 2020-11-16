@@ -1,0 +1,17 @@
+<site-list version="205">
+    <!-- File creation header -->
+    <created-by>
+        <tool>EnterpriseSitelistManager</tool>
+        <version>0.0.1</version>
+        <date-created>20201116.203000</date-created>
+    </created-by>
+    <!-- Begin Site List --> 
+    <site url="ntcebm2.neea.edu.cn">
+        <compat-mode>IE10</compat-mode>
+        <open-in>IE11</open-in>
+    </site>
+    <site url="ntcebm4.neea.edu.cn">
+        <compat-mode>IE10</compat-mode>
+        <open-in>IE11</open-in>
+    </site>
+</site-list>
