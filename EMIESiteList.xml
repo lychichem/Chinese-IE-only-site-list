@@ -14,8 +14,4 @@
         <compat-mode>IE10</compat-mode>
         <open-in>IE11</open-in>
     </site>
-    <site url="xiaozhao365.com">
-        <compat-mode>IE10</compat-mode>
-        <open-in>IE11</open-in>
-    </site>
 </site-list>
