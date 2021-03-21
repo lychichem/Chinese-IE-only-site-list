@@ -5,7 +5,8 @@
 中国有大量IE only的网站无法用现代浏览器甚至IE11访问，然而微软并不知道这些网站的存在，推送的IE模式列表全是把IE重定向到Edge的，违背了IE模式的初衷。本列表是代替微软收集这些网站并使Edge自动使用IE模式打开这些网站的列表。
 
 ## 怎么使用这个列表
-可以看我在卡饭的这个帖子：https://bbs.kafan.cn/thread-2164376-1-1.html
+可以看我在卡饭的[这个帖子](https://bbs.kafan.cn/thread-2164376-1-1.html)  
+直接用：[点击此处](https://lychichem.github.io/Chinese-IE-only-site-list/EMIESiteList.xml)
 
 ## 我如何贡献
 欢迎提交PR！
