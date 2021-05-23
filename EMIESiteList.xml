@@ -22,4 +22,8 @@
         <compat-mode>IE11</compat-mode>
         <open-in>IE11</open-in>
     </site>
+    <site url="zjuequip.zju.edu.cn">
+        <compat-mode>IE8</compat-mode>
+        <open-in>IE11</open-in>
+    </site>
 </site-list>
