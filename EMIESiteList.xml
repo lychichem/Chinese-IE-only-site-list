@@ -18,4 +18,9 @@
         <compat-mode>IE8</compat-mode>
         <open-in>IE11</open-in>
     </site>
+    <site url="xwfw.zju.edu.cn">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE11</open-in>
+    </site>
+
 </site-list>
