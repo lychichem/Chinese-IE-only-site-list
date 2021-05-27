@@ -22,5 +22,8 @@
         <compat-mode>IE11</compat-mode>
         <open-in>IE11</open-in>
     </site>
-
+    <site url="zwfw.safe.gov.cn">
+        <compat-mode>IE8Enterprise</compat-mode>
+        <open-in>IE11</open-in>
+    </site>
 </site-list>
