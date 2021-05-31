@@ -26,7 +26,7 @@
         <compat-mode>IE8Enterprise</compat-mode>
         <open-in>IE11</open-in>
     </site>
-    <site url="http://ccaa3.ccaa.org.cn/">
+    <site url="ccaa3.ccaa.org.cn/">
         <compat-mode>IE11</compat-mode>
         <open-in>IE11</open-in>
     </site> 
