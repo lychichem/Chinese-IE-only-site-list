@@ -2,8 +2,8 @@
     <!-- File creation header -->
     <created-by>
         <tool>EnterpriseSitelistManager</tool>
-        <version>0.0.4</version>
-        <date-created>20210527.233200</date-created>
+        <version>0.0.5</version>
+        <date-created>20210601.001200</date-created>
     </created-by>
     <!-- Begin Site List --> 
     <site url="ntcebm2.neea.edu.cn">
@@ -26,4 +26,8 @@
         <compat-mode>IE8Enterprise</compat-mode>
         <open-in>IE11</open-in>
     </site>
+    <site url="http://ccaa3.ccaa.org.cn/">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE11</open-in>
+    </site> 
 </site-list>
