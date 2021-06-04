@@ -34,4 +34,8 @@
         <compat-mode>IE11</compat-mode>
         <open-in>IE11</open-in>
     </site> 
+    <site url="b2b.ccb.com/">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE11</open-in>
+    </site> 
 </site-list>
