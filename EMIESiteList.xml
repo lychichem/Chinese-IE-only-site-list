@@ -3,7 +3,7 @@
     <created-by>
         <tool>EnterpriseSitelistManager</tool>
         <version>0.0.5</version>
-        <date-created>20210601.001200</date-created>
+        <date-created>20210609.142500</date-created>
     </created-by>
     <!-- Begin Site List --> 
     <site url="ntcebm2.neea.edu.cn">
@@ -24,10 +24,6 @@
     </site>
     <site url="zwfw.safe.gov.cn">
         <compat-mode>IE8Enterprise</compat-mode>
-        <open-in>IE11</open-in>
-    </site>
-    <site url="180.169.147.146:18081">
-        <compat-mode>IE7Enterprise</compat-mode>
         <open-in>IE11</open-in>
     </site>
     <site url="b2b.ccb.com/">
