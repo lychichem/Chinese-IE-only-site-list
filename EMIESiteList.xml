@@ -3,7 +3,7 @@
     <created-by>
         <tool>EnterpriseSitelistManager</tool>
         <version>0.0.5</version>
-        <date-created>20210614.191200</date-created>
+        <date-created>20210622.173200</date-created>
     </created-by>
     <!-- Begin Site List --> 
     <site url="ntcebm2.neea.edu.cn">
@@ -29,5 +29,9 @@
     <site url="ccaa3.ccaa.org.cn/">
         <compat-mode>IE11</compat-mode>
         <open-in>IE11</open-in>
-    </site> 
+    </site>
+    <site url="www.customs.gov.cn/customs/302427/302442/shangpinshuilv/index.html">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE11</open-in>
+    </site>
 </site-list>
